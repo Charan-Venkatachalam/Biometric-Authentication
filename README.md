@@ -6,10 +6,13 @@ fingerprint recognition, you might need specific hardware.
 
 
 FACE RECOGNITION(faceRecog.py)
+
 Replace "person.jpg" and "unknown.jpg" with the paths to your images.
 
 
 FINGERPRINT RECOGNITION(fingRecog.py)
+
 For fingerprint recognition, you might need a fingerprint sensor.
+
 Make sure to replace '/dev/ttyUSB0' with the correct serial port for your 
 fingerprint sensor.
